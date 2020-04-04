@@ -1,2 +1,6 @@
-# hello-world
-just to trying
+/Hello world;
+
+Hi bro
+
+This is my first step now.
+I must become Master.
